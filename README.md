@@ -1,0 +1,3 @@
+# Incorrect Navigation in React Router: Using <a href> instead of Link
+
+This example demonstrates a common mistake in React Router applications: using standard HTML anchor tags (`<a href>`) for internal navigation instead of React Router's `Link` component. This issue can cause problems with client-side routing and state management.  The solution involves replacing the incorrect `href` navigation with the correct `Link` component from `react-router-dom`.
